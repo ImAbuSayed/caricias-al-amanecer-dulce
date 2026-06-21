@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me pierdo en tu mirada cuando cae la ciudad, nena
+> Un fuego lento que quema y mis sentidos frena
+> Tú tienes el control, mi dulce necesidad
+> Ven, dame caricias hasta que llegue la claridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
