@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Caricias al amanecer dulce |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-al-amanecer-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Caricias al amanecer dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-al-amanecer-dulce/) |
+| **Get License** | [Music Rights & Licensing for Caricias al amanecer dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-al-amanecer-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Me pierdo en tu mirada cuando cae la ciudad, nena
-> Un fuego lento que quema y mis sentidos frena
-> Tú tienes el control, mi dulce necesidad
-> Ven, dame caricias hasta que llegue la claridad
+> Your skin on mine as dawn breaks through
+> That sweet caress, I'm lost in you
+> The night still burns in every move
+> Caricias al amanecer dulce
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
