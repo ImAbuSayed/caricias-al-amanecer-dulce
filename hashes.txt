@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Caricias
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T04:49:16.249694 | `v1` | `b488951a21c029ae64c3b7b16eebcbdc8ec68fa3ecce583aba6928535e77b1ef` | `ae9a7dc638e0f812ea5519bad9ee7c2997a238e5a26e568818ccb570506c5e35` | `2026-06-22_caricias-al-amanecer-dulce-v1.txt` |
+| 2026-06-22T05:03:11.820600 | `v2` | `c1f48aadd6722c6c32a758ad176129a112aab7090f88a9e2f36b6bcc2b8c854c` | `06d8fcf7e9db387ab1b1b152e0cc1dd67ecfc21babe06c3d13deaa9c2e281472` | `2026-06-22_caricias-al-amanecer-dulce-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
