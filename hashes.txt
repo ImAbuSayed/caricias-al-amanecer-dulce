@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias al amanecer dulce
+
+This log tracks the cryptographic history and versioning for the song **Caricias al amanecer dulce** (caricias-al-amanecer-dulce).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T04:49:16.249694 | `v1` | `b488951a21c029ae64c3b7b16eebcbdc8ec68fa3ecce583aba6928535e77b1ef` | `ae9a7dc638e0f812ea5519bad9ee7c2997a238e5a26e568818ccb570506c5e35` | `2026-06-22_caricias-al-amanecer-dulce-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
