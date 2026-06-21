@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-al-amanecer-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caricias al amanecer dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-al-amanecer-dulce/) |
+| **Get License** | [Secure Licensing Rights for Caricias al amanecer dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-al-amanecer-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3979)
+- [Telegram](https://t.me/AbuSayedMusic/3988)
 
 ---
 
